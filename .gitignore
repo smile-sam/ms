@@ -1,0 +1,14 @@
+*.iml
+*.log
+
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+.idea/
+
+*/target/*
